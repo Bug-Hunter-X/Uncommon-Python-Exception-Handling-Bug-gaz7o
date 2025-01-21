@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Python related to exception handling. The `bug.py` file shows a function that attempts to handle division by zero and type errors, but might not catch all potential exceptions.  The `bugSolution.py` file provides a more robust solution.
